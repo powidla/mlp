@@ -1,2 +1,2 @@
 # mlp
-Multilayers for classification
+Toy MLP for classification
